@@ -1,2 +1,2 @@
 # BreastCancer-Diagnosis
-I made this for reminder that I failed goin to medical school
+Made this as a reminder that I failed goin into medical school
